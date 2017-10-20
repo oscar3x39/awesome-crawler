@@ -68,6 +68,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 * [dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 * [pspider](https://github.com/hightman/pspider) - Parallel web crawler written in PHP.
 * [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+* [QueryList](https://github.com/jae-jae/QueryList) - Simple, elegant, extensible PHP Web Scraper (crawler/spider),Use the css3 dom selector,Based on phpQuery!
 
 ## C++
 * [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++.
